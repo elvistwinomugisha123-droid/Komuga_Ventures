@@ -4,9 +4,9 @@ import Footer from "@/components/Footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Komuga Ventures | Building Tomorrow's Industries, Today",
+  title: "Komuga Ventures | Your Business, Backed by a Partner You Can Trust",
   description:
-    "Komuga Ventures Limited is a diversified investment firm driving sustainable growth across private equity, real estate, agribusiness, technology, and energy.",
+    "Komuga Limited Ventures offers strategic business guidance, agent banking, mobile money, internet services, and data solutions in Bukoto, Kampala, Uganda.",
 };
 
 export default function RootLayout({
